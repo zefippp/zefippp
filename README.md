@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+[![Header](https://media.discordapp.net/attachments/729413556700839957/824338217699639336/background.jpg?width=1440&height=267)]
 
 ## I'm a junior Java & Android developer
 
@@ -15,4 +15,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zefippp)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/promise.pending)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/zefippp)
-[![Facebook](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=1195F5)](https://www.facebook.com/alexeyshpavdaMain)
