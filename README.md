@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 ![Socket](https://img.shields.io/badge/-Socket-090909?style=for-the-badge&logo=socket&logoColor=47C5FB)
-![Http](https://img.shields.io/badge/-Http-090909?style=for-the-badge&logo=http&logoColor=097CDB)
+![Http](https://img.shields.io/badge/-Http-090909?style=for-the-badge&logo=bit&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=E5D3FF)
