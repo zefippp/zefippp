@@ -5,7 +5,7 @@
 ### Languages:
 ![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=FFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=f6830d)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=E5D3FF)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=6296CC)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
