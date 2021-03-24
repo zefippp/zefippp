@@ -8,7 +8,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=E5D3FF)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=javalogoColor=6296CC)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=6296CC)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ### Follow Me:
