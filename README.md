@@ -4,11 +4,11 @@
 
 ### Languages:
 ![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=FFF)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=f6830d)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=E5D3FF)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=6296CC)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
 ### Tools:
 <!-- YOUTUBE:START -->
