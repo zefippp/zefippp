@@ -3,19 +3,17 @@
 ## I'm a junior Java & Android developer
 
 ### Languages:
-![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=FFF)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
-![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
 ### Tools:
-- HTTP
-- Socket Programming 
-- MySQL
-- Firebase Realtime
-- Google GSON
+![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=FFF)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
+![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
+![HTTP](https://img.shields.io/badge/-HTTP-090909?style=for-the-badge&logo=HTTP)
+![GSON](https://img.shields.io/badge/-GSON-090909?style=for-the-badge&logo=GSON)
+![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-090909?style=for-the-badge&logo=PHPMyAdmin)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zefippp)
