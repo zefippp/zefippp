@@ -11,11 +11,11 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
 ### Tools:
-<!-- YOUTUBE:START -->
 - HTTP
-- Socket
+- Socket Programming 
 - MySQL
-<!-- YOUTUBE:END -->
+- Firebase Realtime
+- Google GSON
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zefippp)
