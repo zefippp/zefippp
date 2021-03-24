@@ -3,7 +3,7 @@
 ## I'm a junior Java & Android developer
 
 ### Languages:
-![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=47C5FB)
+![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=000000)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=E5D3FF)
