@@ -11,6 +11,7 @@
 ![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=Android-Studio&logoColor=FFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
 
 ![HTTP](https://img.shields.io/badge/-HTTP-090909?style=for-the-badge&logo=HTTP)
