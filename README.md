@@ -8,7 +8,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql)
 
 ### Tools:
-![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=FFF)
+![Intellij-IDEA](https://img.shields.io/badge/-IntellijIDEA-090909?style=for-the-badge&logo=IntelliJ-IDEA)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=Android-Studio&logoColor=FFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
