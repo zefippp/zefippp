@@ -1,5 +1,3 @@
-![Header](https://media.discordapp.net/attachments/729413556700839957/824338217699639336/background.jpg?width=1440&height=267)
-
 ## I'm a junior Java & Android developer
 
 ### Languages:
