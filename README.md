@@ -10,7 +10,6 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=Android-Studio&logoColor=FFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
-![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
 
 ![HTTP](https://img.shields.io/badge/-HTTP-090909?style=for-the-badge&logo=HTTP)
 ![GSON](https://img.shields.io/badge/-GSON-090909?style=for-the-badge&logo=GSON)
@@ -18,8 +17,10 @@
 ![Retrofit2](https://img.shields.io/badge/-Retrofit2-090909?style=for-the-badge&logo=Retrofit)
 ![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=maven)
 ![Xml](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=xml)
+![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
+
+![MVC](https://img.shields.io/badge/-MVC-090909?style=for-the-badge&logo=Textpattern)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zefip)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/promise.pending)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/zefippp)
