@@ -19,7 +19,7 @@
 ![Xml](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=xml)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
 
-![MVC](https://img.shields.io/badge/-MVC-#FFDA44?style=for-the-badge&logo=Textpattern)
+![MVC](https://img.shields.io/badge/-MVC-090909?style=for-the-badge&logo=Textpattern)
 
 ### Follow Me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zefip)
