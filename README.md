@@ -12,7 +12,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 
 ![HTTP](https://img.shields.io/badge/-HTTP-090909?style=for-the-badge&logo=HTTP)
-![GSON](https://img.shields.io/badge/-GSON-090909?style=for-the-badge&logo=GSON)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-090909?style=for-the-badge&logo=PHPMyAdmin)
 ![Retrofit2](https://img.shields.io/badge/-Retrofit2-090909?style=for-the-badge&logo=Retrofit)
 ![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=maven)
