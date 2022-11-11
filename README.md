@@ -17,8 +17,8 @@
 ![Retrofit2](https://img.shields.io/badge/-Retrofit2-090909?style=for-the-badge&logo=Retrofit)
 ![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=maven)
 ![Xml](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=xml)
-![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
-![RxJava](https://img.shields.io/badge/-RxJava-090909?style=for-the-badge&logo=JSON)
+![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge)
+![RxJava](https://img.shields.io/badge/-RxJava-090909?style=for-the-badge)
 
 ![MVP](https://img.shields.io/badge/-MVP-090909?style=for-the-badge&logo=Textpattern)
 ![MVVM](https://img.shields.io/badge/-MVVM-090909?style=for-the-badge&logo=Textpattern)
