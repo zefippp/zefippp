@@ -1,4 +1,4 @@
-## I'm a junior Java & Android developer
+## I'm a strong junior Java & Android developer
 
 ### Languages:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
