@@ -10,6 +10,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=Android-Studio&logoColor=FFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
+![OneSignal](https://img.shields.io/badge/-OneSignal-090909?style=for-the-badge)
 
 ![HTTP](https://img.shields.io/badge/-HTTP-090909?style=for-the-badge&logo=HTTP)
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-090909?style=for-the-badge&logo=PHPMyAdmin)
@@ -17,7 +18,6 @@
 ![Maven](https://img.shields.io/badge/-Maven-090909?style=for-the-badge&logo=maven)
 ![Xml](https://img.shields.io/badge/-XML-090909?style=for-the-badge&logo=xml)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=JSON)
-![OneSignal](https://img.shields.io/badge/-OneSignal-090909?style=for-the-badge)
 
 ![MVP](https://img.shields.io/badge/-MVP-090909?style=for-the-badge&logo=Textpattern)
 ![MVVM](https://img.shields.io/badge/-MVVM-090909?style=for-the-badge&logo=Textpattern)
